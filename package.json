@@ -1,0 +1,19 @@
+{
+  "name": "@osiris/filters",
+  "version": "1.0.0",
+  "description": "Automod filters for the bot.",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wayvshock",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@types/node": "^15.12.3",
+    "@types/ws": "^7.4.5",
+    "typescript": "^4.3.4"
+  },
+  "dependencies": {
+    "eris": "^0.15.1"
+  }
+}
